@@ -9,7 +9,7 @@ The model is trained on grayscale MRI images and uses data augmentation to impro
 ## Dataset Structure
 
 Organize the dataset as follows:
-
+```
 data/
 ├── Training/
 │   ├── glioma/
@@ -21,7 +21,7 @@ data/
 │   ├── meningioma/
 │   ├── pituitary/
 │   └── notumor/
-
+```
 ## Features
 
 Device Setup:
